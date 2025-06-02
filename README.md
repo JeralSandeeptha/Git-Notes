@@ -27,9 +27,15 @@
 [Refer GIT Workflow Behind the Scenes](https://octobot.medium.com/how-git-internally-works-1f0932067bee)
 
 #### GIT Objects
+
+![Relation between Objects](https://res.cloudinary.com/djgwvmcdl/image/upload/v1748897883/d97d7063-81af-44d9-8038-0b8bbaae4d1d_m9o1ld.jpg)
+
 - Everything is stored as objects in a `.git/objects` directory
 - `.git/objects` directory is like a database of `git`
 - `Git` has 4 fundamental object types
+
+![Objects](https://res.cloudinary.com/djgwvmcdl/image/upload/v1748897995/fYm0s_i6veqf.png)
+[Indeep Knowledege about Objects](https://medium.com/mindorks/what-is-git-object-model-6009c271ca66)
 
 | Object Type | Description                                          |
 |-------------|------------------------------------------------------|
