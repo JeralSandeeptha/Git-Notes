@@ -108,6 +108,7 @@ git tag v1.0
 
 #### 🧪 Optional / Generated Files
 - These file are generating while some specific operations
+
 | File/Directory           | Purpose                                                                 |
 |--------------------------|-------------------------------------------------------------------------|
 | `MERGE_HEAD`             | Exists during a merge conflict to indicate the other commit being merged. |
