@@ -96,7 +96,7 @@ git tag v1.0
 └── logs/
 ```
 
-#### 📂 Important Directories 
+#### 📂 Important Directories  
 ##### 🔧 `hooks/`
 - Contains **sample Git hooks** (e.g., `pre-commit.sample`, `post-merge.sample`).
 - Hooks are shell scripts that run automatically on specific Git events.
