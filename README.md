@@ -28,8 +28,9 @@
 - Everything is stored as objects in a `.git/objects` directory
 - `.git/objects` directory is like a database of `git`
 - `Git` has 4 fundamental object types
+
 | Object Type | Description                                          |
-| ----------- | ---------------------------------------------------- |
+|-------------|------------------------------------------------------|
 | **Blob**    | Stores file content                                  |
 | **Tree**    | Stores directory structure (list of blobs and trees) |
 | **Commit**  | Points to a tree and holds commit metadata           |
