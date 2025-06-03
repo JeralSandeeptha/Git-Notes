@@ -48,6 +48,8 @@
 ![Objects](https://res.cloudinary.com/djgwvmcdl/image/upload/v1748897995/fYm0s_i6veqf.png)
 [Indeep Knowledege about Objects](https://medium.com/mindorks/what-is-git-object-model-6009c271ca66)
 
+- For a git project we need atleast `object store` and `reference store`
+- They are represents `objects` and `refs` folders
 ![Image](https://res.cloudinary.com/djgwvmcdl/image/upload/v1748980250/gitdatabase3_xtrivt.webp)
 
 | Object Type | Description                                          |
