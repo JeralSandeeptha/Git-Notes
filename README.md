@@ -32,6 +32,12 @@
 
 #### GIT Objects
 
+![Image](https://res.cloudinary.com/djgwvmcdl/image/upload/v1748953268/6194709048910268730_weoeek.jpg)
+![Image](https://res.cloudinary.com/djgwvmcdl/image/upload/v1748953702/6194709048910268731_ttj6ch.jpg)
+![Image](https://res.cloudinary.com/djgwvmcdl/image/upload/v1748953801/6194709048910268732_bf1rg8.jpg)
+![Image](https://res.cloudinary.com/djgwvmcdl/image/upload/v1748953854/6194709048910268733_ro07q5.jpg)
+![Image](https://res.cloudinary.com/djgwvmcdl/image/upload/v1748953915/6194709048910268734_r4qfc5.jpg)
+
 ![Relation between Objects](https://res.cloudinary.com/djgwvmcdl/image/upload/v1748897883/d97d7063-81af-44d9-8038-0b8bbaae4d1d_m9o1ld.jpg)
 
 - Everything is stored as objects in a `.git/objects` directory
