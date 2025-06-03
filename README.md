@@ -433,6 +433,7 @@ git reset [<mode>] [<commit>]
 ```
 
 - Modes
+
 | Mode      | Affects                    | Description                                           |
 | --------- | -------------------------- | ----------------------------------------------------- |
 | `--soft`  | HEAD only                  | Move HEAD to a previous commit, keep changes staged   |
@@ -448,6 +449,7 @@ git reset --hard <commit-hash>
 ```
 
 - Summary
+
 | Command                     | Effect                                        |
 | --------------------------- | --------------------------------------------- |
 | `git reset --soft HEAD~1`   | Undo last commit, keep changes staged         |
