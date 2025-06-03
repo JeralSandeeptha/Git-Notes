@@ -41,6 +41,9 @@
 
 ![Relation between Objects](https://res.cloudinary.com/djgwvmcdl/image/upload/v1748897883/d97d7063-81af-44d9-8038-0b8bbaae4d1d_m9o1ld.jpg)
 
+- We can use this commands to identify the obejcts and it contents
+![Image](https://res.cloudinary.com/djgwvmcdl/image/upload/v1748982100/1_keKQzsPTjdTJJm81xEqO1A_epean2.webp)
+
 - Everything is stored as objects in a `.git/objects` directory
 - `.git/objects` directory is like a database of `git`
 - `Git` has 4 fundamental object types
