@@ -442,6 +442,7 @@ git clone https://github.com/user/repo.git
 | Unstage file                    | `git reset <file>`              |
 | Undo last commit (keep changes) | `git reset --soft HEAD~1`       |
 | Revert a commit                 | `git revert <commit>`           |
+| Restore the file changes               | `git restore <>file`           |
 
 #### Reset
 ```cmd
