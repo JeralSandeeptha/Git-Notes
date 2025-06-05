@@ -6,7 +6,7 @@
 - [Configuration Files](#configuration-files)
 - [Core Concepts](#core-concepts)
 - [Git Workflow](#git-workflow)
-- [Commands](#commands)
+- [Commands](#commands) 
 - [Best Pratices](#best-pratices)
 - [Mistakes](#mistakes)
 - [Commits](#commits)
