@@ -15,3 +15,4 @@
 - [Resolve Merge Conflicts](./docs/resolve-merge-conflicts/index.md)
 - [Branching Stratergies](./docs/branching-stratergies/index.md)
 - [Cherry Picking](./docs/best-pratices/cherry-pick.md)
+- [Stashing](./docs/best-pratices/stashing.md)
