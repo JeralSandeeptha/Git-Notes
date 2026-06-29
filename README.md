@@ -16,3 +16,4 @@
 - [Branching Stratergies](./docs/branching-stratergies/index.md)
 - [Cherry Picking](./docs/best-pratices/cherry-pick.md)
 - [Stashing](./docs/best-pratices/stashing.md)
+- [Debugging Commits](./docs/best-pratices/debugging.md)
