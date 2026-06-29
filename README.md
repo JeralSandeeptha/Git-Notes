@@ -17,3 +17,4 @@
 - [Cherry Picking](./docs/best-pratices/cherry-pick.md)
 - [Stashing](./docs/best-pratices/stashing.md)
 - [Debugging Commits](./docs/best-pratices/debugging.md)
+- [Sub Modules](./docs/best-pratices/submodules.md)
